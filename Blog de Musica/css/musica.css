@@ -1,0 +1,39 @@
+
+@media (min-width: 768px){
+.navbar-nav {
+margin: 0 auto;
+display: table;
+table-layout: auto;
+float: none;
+width: 100%;
+}
+.navbar-nav > li{
+display: table-cell;
+float: none;
+text-align: center;
+}
+}
+
+body{
+  background-color: #6F7D7C;
+  color: white;
+  font-family:'Comic Sans', cursive;
+}
+
+#pagina{
+  background-color: #08585D;
+
+}
+#barra{
+  background-color: #B6CCCA;
+}
+#articulos{
+  border-right: black solid 2px;
+}
+header{
+  background-color:#0F8D97;
+}
+
+#busqueda{
+  margin-top: 30px;
+}
